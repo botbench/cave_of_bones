@@ -1,0 +1,4 @@
+.DS_Store
+.vscode/
+build/
+zcc_opt.def
